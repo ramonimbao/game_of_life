@@ -3,3 +3,5 @@
 *.dll
 /gnu-mingw
 /msvc
+/.idea
+game_of_life.iml
